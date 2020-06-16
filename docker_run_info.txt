@@ -5,3 +5,9 @@ docker run -d -t -i -e DB_HOST='34.67.68.59' \
 -e DB_PASS='526375' \
 -p 3000:3000 \
 --name container_name txm273/mer853
+
+
+
+
+digital ocean 
+ 526375Masud
